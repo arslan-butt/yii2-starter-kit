@@ -70,7 +70,7 @@ class UserController extends Controller
      * "logged_at": 1494235518
      * }
      *
-     * 
+     *
      * @apiErrorExample {json} 400 Bad Request (example):
      * {
      *   "message": "Invalid login credentials.",
