@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-# Yii 2 Starter Kit
+# Yii2 starter kit with RESTful api module
+This is starter kit for yii2 with RESTful api module, backend module and frontend module  
 
 <!-- BADGES/ -->
 
@@ -342,6 +343,5 @@ This is a point where you can begin your application, rather than creating it fr
 Good luck!
 
 =======
-# Yii2 starter kit with RESTful api module
-This is starter kit for yii2 with RESTful api module, backend module and frontend module  
+
 >>>>>>> 67c2eca5879b6c6d5d8375f5ba36e1a1c761b08b
