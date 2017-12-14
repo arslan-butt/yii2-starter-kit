@@ -1,14 +1,10 @@
 # Yii2 starter kit with RESTful api module
-This is starter kit for yii2 with RESTful api module, backend module and frontend module  
 
-This is Yii2 start application template.
+This is Yii2 start application template with RESTful api module, backend module and frontend module.  
 
 It was created and developing as a fast start for building an advanced sites based on Yii2. 
 
 It covers typical use cases for a new project and will help you not to waste your time doing the same work in every project
-
-## Before you start
-Please, consider helping project via [contributions](https://github.com/trntv/yii2-starter-kit/issues) or [donations](#donations). 
 
 ## TABLE OF CONTENTS
 - [Demo](#demo)
@@ -313,14 +309,8 @@ public function behaviors()
 ##How to contribute?
 You can contribute in any way you want. Any help appreciated, but most of all i need help with docs (^_^)
 
-##Donations
-- [Paypal] (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X7UFA3F3ALPM8)
-- [Bitcoin] (https://www.coinbase.com/checkouts/2f1c1cb31c395e5aaafa1ba70003552e)
-- [WebMoney] (Z110052695454)
-- Other way: [eugene@terentev.net](mailto:eugene@terentev.net)
-
 ##Have any questions?
-mail to [eugene@terentev.net](mailto:eugene@terentev.net)
+mail to [engr.arslanbutt@gmail.com](mailto:engr.arslanbutt@gmail.com)
 
 ##READ MORE
 https://github.com/yiisoft/yii2/blob/master/apps/advanced/README.md
